@@ -28,7 +28,7 @@ hr {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: conic-gradient(from var(--angle), transparent, #fff, transparent, #fff, transparent, #fff, transparent, #fff, transparent);
+    background-image: conic-gradient(from var(--angle), transparent, #e4b10b, transparent, #e42b0b, transparent, #e4b10b, transparent, #e42b0b, transparent);
     z-index: -1;
     padding: 5px;
     bottom: -5px;

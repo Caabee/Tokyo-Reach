@@ -4,7 +4,10 @@
 }
 
 body {
-    background: #000000;
+    background-image: url('../img/backgroundfooterblack.png');
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
     transform: translateY(120px);
